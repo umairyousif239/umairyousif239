@@ -1,12 +1,12 @@
 ### WORK UNDERWAY
 
-###Programming Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, php, py&theme=dark)](https://skillicons.dev)
+##Programming Languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py&theme=dark)](https://skillicons.dev)
 
-###Software and Tools:
-[![Software and Tools](https://skillicons.dev/icons?i=git, figma, github, vscode, heroku, ps, pr, ae&theme=dark)](https://skillicons.dev)
+##Software and Tools:
+[![Software and Tools](https://skillicons.dev/icons?i=git,figma,github,vscode,heroku,ps,pr,ae&theme=dark)](https://skillicons.dev)
 
-###Database Management:
+##Database Management:
 [![Database Management](https://skillicons.dev/icons?i=sql&theme=dark)](https://skillicons.dev)
 
 ### Spotify Playing 🎧
