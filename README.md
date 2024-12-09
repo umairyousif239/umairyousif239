@@ -22,6 +22,7 @@
 
 ## Connect with me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umairyousif/)&nbsp;&nbsp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/umairyousif2280)
-<br/>
+
+
 
 [![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairyousif239&show_icons=true&theme=dark)](https://github.com/umairyousif239/github-readme-stats)
