@@ -1,5 +1,3 @@
-### WORK UNDERWAY
-
 ### Heya There! My name is Umair Yousif 👋
 
 ### I'm a Student and a Developer
