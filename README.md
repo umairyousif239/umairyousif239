@@ -1,7 +1,7 @@
 ### WORK UNDERWAY
 
 ## Programming Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py&theme=dark)](https://skillicons.dev)
 
 ## Software and Tools:
 [![Software and Tools](https://skillicons.dev/icons?i=git,figma,github,vscode,heroku,ps,pr,ae&theme=dark)](https://skillicons.dev)
