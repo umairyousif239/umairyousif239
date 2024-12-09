@@ -3,9 +3,9 @@
 ### Heya There! My name is Umair Yousif 👋
 
 ### I'm a Student and a Developer
-- I'm currently trying to further my expertise in python.
-- I'm planning to work on a lot more project.
-- 2024 Goals: Work on personal projects and delve into machine learning.
+- 🌱 I'm currently trying to further my expertise in python.
+- 💻 I'm planning to work on a lot more project.
+- 🥅 2024 Goals: Work on personal projects and delve into machine learning.
 
 ### Spotify Playing 🎧
 
