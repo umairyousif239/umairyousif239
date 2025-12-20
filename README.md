@@ -7,13 +7,22 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 - 🚀 Focused on creating **practical, real-world solutions** through code
 
 ## Programming Languages & Core Tech:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py&theme=dark)](https://skillicons.dev)
+[![Programming Languages & Core Tech](https://skillicons.dev/icons?i=py,cpp,sql&theme=dark)](https://skillicons.dev)
 
-## Software and Tools:
-[![Software and Tools](https://skillicons.dev/icons?i=git,figma,github,vscode,heroku,ps,pr,ae&theme=dark)](https://skillicons.dev)
+## AI / ML & GenAI Stack:
+[![AI / ML & GenAI Stack](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark)](https://skillicons.dev)
 
-## Database Management:
-[![Database Management](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+## Backend & DevOps:
+[![Backend & DevOps](https://skillicons.dev/icons?i=fastapi,docker,firebase,mongodb,postman&theme=dark)](https://skillicons.dev)
+
+## Data & Visualization:
+[![Data & Visualization](https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark)](https://skillicons.dev)
+
+## Frontend / Dashboard:
+[![Frontend / Dashboard](https://skillicons.dev/icons?i=react,html,css&theme=dark)](https://skillicons.dev)
+
+## Systems, Edge & IoT:
+[![Systems, Edge & IoT](https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark)](https://skillicons.dev)
 
 ## Connect with me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umairyousif/)&nbsp;&nbsp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/umairyousif2280)
