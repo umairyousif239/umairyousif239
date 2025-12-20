@@ -7,22 +7,22 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 - 🚀 Focused on creating **practical, real-world solutions** through code
 
 ## Programming Languages & Core Tech:
-[![Programming Languages & Core Tech](https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" height="40"/> </p>
 
 ## AI / ML & GenAI Stack:
-[![AI / ML & GenAI Stack](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> </p>
 
 ## Backend & DevOps:
-[![Backend & DevOps](https://skillicons.dev/icons?i=fastapi,docker,firebase,mongodb,postman&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi,docker,firebase,mongodb,postman&theme=dark" height="40"/> </p>
 
 ## Data & Visualization:
-[![Data & Visualization](https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> </p>
 
 ## Frontend / Dashboard:
-[![Frontend / Dashboard](https://skillicons.dev/icons?i=react,html,css&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="40"/> </p>
 
 ## Systems, Edge & IoT:
-[![Systems, Edge & IoT](https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="40"/> </p>
 
 ## Connect with me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umairyousif/)&nbsp;&nbsp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/umairyousif2280)
