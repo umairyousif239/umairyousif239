@@ -22,7 +22,7 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="40"/> </p>
 
 ## Systems, Edge & IoT:
-<p align="left"> <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="40"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40"/> </p>
 
 ## Connect with me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umairyousif/)&nbsp;&nbsp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/umairyousif2280)
