@@ -7,7 +7,7 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 - 🚀 Focused on creating **practical, real-world solutions** through code
 
 ## Programming Languages & Core Tech:
-[![Programming Languages & Core Tech](https://skillicons.dev/icons?i=py,cpp,sql&theme=dark)](https://skillicons.dev)
+[![Programming Languages & Core Tech](https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark)](https://skillicons.dev)
 
 ## AI / ML & GenAI Stack:
 [![AI / ML & GenAI Stack](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow&theme=dark)](https://skillicons.dev)
