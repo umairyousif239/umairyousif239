@@ -51,11 +51,10 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 </p>
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/umairyousif/">
+<a href="https://www.linkedin.com/in/umairyousif/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" title="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/umairyousif2280">
+<a href="https://twitter.com/umairyousif2280" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" title="Twitter / X"/>
 </a>
 
