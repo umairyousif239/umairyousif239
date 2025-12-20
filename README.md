@@ -1,15 +1,12 @@
-### Heya There! My name is Umair Yousif 👋
+### Hey there! I'm Umair Yousif 👋
 
-### I'm a Student and a Developer
-- 🌱 I'm currently trying to further my expertise in python.
-- 💻 I'm planning to work on a lot more project.
-- 🥅 2024 Goals: Work on personal projects and delve into machine learning.
+I'm a **Computer Science student and developer** with a strong interest in **AI, machine learning, and backend systems**.
 
-### Spotify Playing 🎧
+- 🌱 Currently deepening my expertise in **Python, AI/ML, and system design**
+- 💻 Actively building projects in **computer vision, GenAI, and backend development**
+- 🚀 Focused on creating **practical, real-world solutions** through code
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4bq76n54szp36p9pt2u0gg530&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4bq76n54szp36p9pt2u0gg530&redirect=true)
-
-## Programming Languages & Frameworks:
+## Programming Languages & Core Tech:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py&theme=dark)](https://skillicons.dev)
 
 ## Software and Tools:
