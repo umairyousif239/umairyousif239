@@ -45,6 +45,16 @@ Most of my work revolves around practical AI infrastructure — including agent 
 
 `MQTT` `Edge AI` `Real-time Dashboards` `Distributed Systems`
 
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/umairyousif/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" title="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/umairyousif2280" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" title="Twitter / X"/>
+</a>
+
 ## GitHub Stats
 
 <p>
@@ -56,13 +66,3 @@ Most of my work revolves around practical AI infrastructure — including agent 
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-light-mode-only" />
 </a>
 </p>
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/umairyousif/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" title="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/umairyousif2280" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" title="Twitter / X"/>
-</a>
