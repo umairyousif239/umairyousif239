@@ -59,4 +59,6 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 </a>
 
 ---
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairyousif239&show_icons=true&theme=transparent)
+<p>&nbsp;<a href="https://github.com/umairyousif239#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-dark-mode-only" alt="umairyousif239" /></a>
+<a href="https://github.com/umairyousif239#gh-light-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-light-mode-only" alt="umairyousif239" /></a>
+</p> 
