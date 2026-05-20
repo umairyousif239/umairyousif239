@@ -168,10 +168,9 @@ Enterprise-style semantic retrieval system for large PDF datasets.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<p>&nbsp;<a href="https://github.com/umairyousif239#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-dark-mode-only" alt="umairyousif239" /></a>
+<a href="https://github.com/umairyousif239#gh-light-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-light-mode-only" alt="umairyousif239" /></a>
+</p> 
 
 ---
 
@@ -195,9 +194,3 @@ Currently building:
 - Advanced RAG pipelines
 - Autonomous AI workflows
 - Retrieval and reasoning systems
-
----
-
-<p>&nbsp;<a href="https://github.com/umairyousif239#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-dark-mode-only" alt="umairyousif239" /></a>
-<a href="https://github.com/umairyousif239#gh-light-mode-only" target="_blank"><img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-light-mode-only" alt="umairyousif239" /></a>
-</p> 
