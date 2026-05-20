@@ -11,8 +11,6 @@ Focused on:
 
 Most of my work revolves around practical AI infrastructure — including agent security platforms, retrieval systems, real-time dashboards, and autonomous AI workflows.
 
----
-
 ## Tech Stack
 
 ### AI / ML & Retrieval
@@ -24,8 +22,6 @@ Most of my work revolves around practical AI infrastructure — including agent 
 </p>
 
 `LangChain` `LangGraph` `FAISS` `sentence-transformers` `Gemini API` `Ollama` `RAG Pipelines`
-
----
 
 ### Backend & Infrastructure
 <p align="left">
@@ -39,8 +35,6 @@ Most of my work revolves around practical AI infrastructure — including agent 
 
 `REST APIs` `WebSockets` `Dockerized Deployments` `AI Infrastructure` `Authentication Systems`
 
----
-
 ### Frontend & Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" title="React"/>
@@ -50,8 +44,6 @@ Most of my work revolves around practical AI infrastructure — including agent 
 </p>
 
 `MQTT` `Edge AI` `Real-time Dashboards` `Distributed Systems`
-
----
 
 ## GitHub Stats
 
@@ -64,8 +56,6 @@ Most of my work revolves around practical AI infrastructure — including agent 
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=umairyousif239&count_private=true&show_icons=true&theme=great-gatsby#gh-light-mode-only" />
 </a>
 </p>
-
----
 
 ## Connect With Me
 
