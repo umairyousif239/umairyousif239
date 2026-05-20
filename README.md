@@ -59,4 +59,4 @@ I'm a **Computer Science student and developer** with a strong interest in **AI,
 </a>
 
 ---
-![Umair's GitHub stats](https://github-readme-stats-indol-seven-12.vercel.app/api?username=umairyousif239&show_icons=true&theme=transparent)
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairyousif239&show_icons=true&theme=transparent)
